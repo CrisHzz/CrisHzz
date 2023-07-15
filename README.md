@@ -1,6 +1,6 @@
 ### Hello👋
 # 💫 About Me:
-🔭 Software Engineer in Universidad de Medellin<br>👯 I am looking to collaborate on projects and ideas using new AI tools and solutions to solve problems or make life easier🤝 I’m looking for help with improve my knowledge in data science branch<br>🌱 I’m currently learning TensorFlow and mathematics libraries in python.<br>💬 Ask me about<br>⚡ I like videogames, series, the music and discover new tecnologies and ways to do the things
+🔭 Software Engineer student in Universidad de Medellin<br>👯 I am looking to collaborate on projects and ideas using new AI tools and solutions to solve problems or make life easier🤝 I’m looking for help with improve my knowledge in data science branch<br>🌱 I’m currently learning TensorFlow and mathematics libraries in python.<br>💬 Ask me about<br>⚡ I like videogames, series, the music and discover new tecnologies and ways to do the things
 
 
 ## 🌐 Socials:
