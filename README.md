@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" />
   <img width="12" />
-  <img src="[https://raw.githubusercontent.com/reflex-dev/reflex/main/docs/static/img/logo.png](https://avatars.githubusercontent.com/u/104714959?s=280&v=4)" height="45" alt="reflex python logo" />
+  <img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" height="45" alt="reflex python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="45" alt="astro logo" />
   <img width="12" />
